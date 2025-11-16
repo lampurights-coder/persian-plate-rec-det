@@ -28,7 +28,7 @@ A full pipeline for detecting and recognizing license plates from car images usi
 
 ## 📌 Features
 
-✅ YOLOv5-based license plate detection (OpenVINO)
+✅ YOLO-based license plate detection (OpenVINO)
 ✅ PPOCRv5 ONNX model for text recognition
 ✅ Easy-to-use FastAPI server
 ✅ Modular design (detector, recognizer, system wrapper)
