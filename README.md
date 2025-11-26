@@ -2,8 +2,6 @@
   <img src="ChatGPT Image Aug 6, 2025, 05_17_04 PM.png" width="500" />
 </p>
 
-Absolutely! Below is a **complete, professional-grade README** for your License Plate Recognition project, including:
-
 * Project Overview
 * Configuration
 * Pipeline Explanation
