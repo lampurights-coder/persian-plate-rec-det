@@ -2,6 +2,8 @@
   <img src="ChatGPT Image Aug 6, 2025, 05_17_04 PM.png" width="500" />
 </p>
 
+---
+
 * Project Overview
 * Configuration
 * Pipeline Explanation
